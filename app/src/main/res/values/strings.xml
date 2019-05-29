@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="city_prompt">Choose a city</string>
+
+    <string-array name="cities_array">
+        <item>Cracow</item>
+        <item>Warsaw</item>
+        <item>Stalowa Wola</item>
+        <item>Hrubieszów</item>
+        <item>Rzeszów</item>
+    </string-array>
+</resources>
